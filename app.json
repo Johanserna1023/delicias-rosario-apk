@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "delicias-proyecto",
+    "slug": "delicias-proyecto",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "plugins": [
+      "expo-image-picker"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "d22c1db4-32a3-4a1d-ace4-c9551cfa8857"
+      }
+    }
+  },
+  "name": "delicias-proyecto"
+}
